@@ -1,6 +1,9 @@
 # NextJS TailwindCSS Blog
 A blog theme that is built with NextJS and Tailwind CSS. This is the theme that powers [Design & Development](https://www.cbsofyalioglu.com).
 
+- https://github.com/canburaks/cbsofyalioglu-static
+
+
 ## Features
 ### Topic Hubs
 An example frontmatter part of post is as follows
